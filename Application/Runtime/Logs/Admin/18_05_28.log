@@ -1,0 +1,2048 @@
+[ 2018-05-28T12:25:43+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002830s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0020s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`truename` FROM `oa_user` WHERE ( id !=  ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`truename` FROM `oa_user` WHERE ( id !=  ) 
+
+[ 2018-05-28T12:30:09+08:00 ] 127.0.0.1 /index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001708s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000270s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.099705s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.099873s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002837s ]
+
+[ 2018-05-28T12:30:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001641s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000229s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000361s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070910s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001536s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001779s ]
+
+[ 2018-05-28T12:30:12+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001558s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0008s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`truename` FROM `oa_user` WHERE ( id !=  ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`truename` FROM `oa_user` WHERE ( id !=  ) 
+
+[ 2018-05-28T12:32:12+08:00 ] 127.0.0.1 /index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002505s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000269s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040651s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040804s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001761s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001863s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001903s ]
+
+[ 2018-05-28T12:32:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002047s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000152s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039641s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039770s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001855s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002879s ]
+
+[ 2018-05-28T12:32:14+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001987s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0017s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.truename as truename FROM oa_email t1 left join sp_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id =  ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.truename as truename FROM oa_email t1 left join sp_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id =  ) 
+
+[ 2018-05-28T12:32:15+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001996s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0008s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`truename` FROM `oa_user` WHERE ( id !=  ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`truename` FROM `oa_user` WHERE ( id !=  ) 
+
+[ 2018-05-28T12:33:00+08:00 ] 127.0.0.1 /index.php/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001737s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015528s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015710s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001254s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001357s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001559s ]
+
+[ 2018-05-28T12:33:02+08:00 ] 127.0.0.1 /index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001603s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000260s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044222s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044348s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001363s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002262s ]
+
+[ 2018-05-28T12:33:02+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000956s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002239s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002070s ]
+
+[ 2018-05-28T12:33:23+08:00 ] 127.0.0.1 /index.php/Admin/Public/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002142s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `oa_user` WHERE `username` = 'admin' AND `password` = '123456' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\wamp64\www\0516\Application\Admin\Controller\PublicController.class.php 第 43 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\wamp64\www\0516\Application\Admin\Controller\PublicController.class.php 第 46 行.
+NOTIC: [2] Illegal string offset 'role_id' D:\wamp64\www\0516\Application\Admin\Controller\PublicController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000256s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023841s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023974s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001366s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001547s ]
+
+[ 2018-05-28T12:33:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001541s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000286s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018282s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001286s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001385s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001536s ]
+
+[ 2018-05-28T12:33:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000990s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012947s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000196s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000344s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059223s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001348s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001458s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001693s ]
+
+[ 2018-05-28T12:33:49+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000950s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001857s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0014s ]
+SQL: SELECT `id`,`truename` FROM `oa_user` WHERE ( id != 2 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036703s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001527s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001627s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001882s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001987s ]
+
+[ 2018-05-28T12:34:01+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001610s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0014s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp64\www\0516\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `oa_email` (`to_id`,`title`,`content`,`file`,`hasfile`,`filename`,`from_id`,`addtime`) VALUES ('1','12121212','sdsd ','/Public/Upload/2018-05-28/5b0b86b95419b.jpg','1','1.jpg','2','1527482041') [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015073s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001357s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001775s ]
+
+[ 2018-05-28T12:34:02+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002152s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0065s ]
+ERR: 1146:Table 'oasystem.sp_user' doesn't exist
+ [ SQL语句 ] : SELECT t1.*,t2.truename as truename FROM oa_email t1 left join sp_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 2 ) 
+ERR: 1146:Table 'oasystem.sp_user' doesn't exist
+ [ SQL语句 ] : SELECT t1.*,t2.truename as truename FROM oa_email t1 left join sp_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 2 ) 
+
+[ 2018-05-28T12:34:03+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001634s ]
+ERR: 模板不存在:./Application/Admin/View/Empty/error.html
+
+[ 2018-05-28T12:34:05+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002007s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001500s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0024s ]
+SQL: SELECT `id`,`truename` FROM `oa_user` WHERE ( id != 2 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000251s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015495s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015615s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001288s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003081s ]
+
+[ 2018-05-28T12:34:17+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001464s ]
+ERR: 模板不存在:./Application/Admin/View/Empty/error.html
+
+[ 2018-05-28T12:34:18+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001621s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0024s ]
+ERR: 1146:Table 'oasystem.sp_user' doesn't exist
+ [ SQL语句 ] : SELECT t1.*,t2.truename as truename FROM oa_email t1 left join sp_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 2 ) 
+ERR: 1146:Table 'oasystem.sp_user' doesn't exist
+ [ SQL语句 ] : SELECT t1.*,t2.truename as truename FROM oa_email t1 left join sp_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 2 ) 
+
+[ 2018-05-28T12:34:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001495s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`truename` FROM `oa_user` WHERE ( id != 2 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000211s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019820s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019944s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001482s ]
+
+[ 2018-05-28T12:34:52+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001450s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0014s ]
+ERR: 1146:Table 'oasystem.sp_user' doesn't exist
+ [ SQL语句 ] : SELECT t1.*,t2.truename as truename FROM oa_email t1 left join sp_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 2 ) 
+ERR: 1146:Table 'oasystem.sp_user' doesn't exist
+ [ SQL语句 ] : SELECT t1.*,t2.truename as truename FROM oa_email t1 left join sp_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 2 ) 
+
+[ 2018-05-28T12:35:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001504s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018393s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018503s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001289s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001384s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001947s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002142s ]
+
+[ 2018-05-28T12:35:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000183s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000300s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037561s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037681s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001472s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001900s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002009s ]
+
+[ 2018-05-28T12:35:38+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002252s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0014s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 2 )  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049258s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049455s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001383s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001547s ]
+
+[ 2018-05-28T12:35:41+08:00 ] 127.0.0.1 /index.php/Admin/Email/download/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000950s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002051s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `oa_email` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001684s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001838s ]
+
+[ 2018-05-28T12:35:45+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001951s ]
+ERR: 模板不存在:./Application/Admin/View/Empty/error.html
+
+[ 2018-05-28T12:38:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001529s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000284s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016814s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016985s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001073s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001453s ]
+
+[ 2018-05-28T12:38:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000311s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036471s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001146s ]
+
+[ 2018-05-28T12:38:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001124s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000150s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000284s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020276s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020449s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001033s ]
+
+[ 2018-05-28T12:40:02+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001117s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000263s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016650s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016811s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001675s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001811s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002213s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002359s ]
+
+[ 2018-05-28T12:40:06+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001596s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000224s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016249s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016460s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001501s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001642s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001608s ]
+
+[ 2018-05-28T12:40:11+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001549s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013717s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001535s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001644s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001703s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001809s ]
+
+[ 2018-05-28T12:40:13+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001485s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0016s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 2 )  [ RunTime:0.0034s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000212s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021862s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001556s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001681s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001539s ]
+
+[ 2018-05-28T16:59:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001468s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013904s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001204s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001309s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001506s ]
+
+[ 2018-05-28T17:50:19+08:00 ] 127.0.0.1 /index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002443s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000241s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029482s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029908s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002959s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002135s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002270s ]
+
+[ 2018-05-28T17:50:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003815s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002548s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000290s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064894s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065073s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001455s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001847s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001975s ]
+
+[ 2018-05-28T17:50:23+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001497s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021879s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022013s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001284s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001383s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001581s ]
+
+[ 2018-05-28T17:50:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001551s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0019s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id =  ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id =  ) 
+
+[ 2018-05-28T17:50:35+08:00 ] 127.0.0.1 /index.php/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001598s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025509s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025637s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001751s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001879s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001768s ]
+
+[ 2018-05-28T17:50:38+08:00 ] 127.0.0.1 /index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001541s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000448s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036152s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001291s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001524s ]
+
+[ 2018-05-28T17:50:38+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001873s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001717s ]
+
+[ 2018-05-28T17:51:03+08:00 ] 127.0.0.1 /index.php/Admin/Public/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001556s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `oa_user` WHERE `username` = 'root' AND `password` = '123456' LIMIT 1   [ RunTime:0.0109s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\wamp64\www\0516\Application\Admin\Controller\PublicController.class.php 第 43 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\wamp64\www\0516\Application\Admin\Controller\PublicController.class.php 第 46 行.
+NOTIC: [2] Illegal string offset 'role_id' D:\wamp64\www\0516\Application\Admin\Controller\PublicController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012759s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012884s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001363s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001553s ]
+
+[ 2018-05-28T17:51:06+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001992s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000224s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016272s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001889s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001992s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001553s ]
+
+[ 2018-05-28T17:51:06+08:00 ] 127.0.0.1 /index.php/Admin/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001740s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000198s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000336s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048552s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048741s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001354s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001752s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001911s ]
+
+[ 2018-05-28T17:51:08+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001548s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013144s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001278s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001534s ]
+
+[ 2018-05-28T19:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020115s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0017s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.107939s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.108056s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012918s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010172s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010286s ]
+
+[ 2018-05-28T19:13:57+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001472s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0018s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022638s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001262s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001372s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001648s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001762s ]
+
+[ 2018-05-28T19:13:58+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000929s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001555s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0016s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 1 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001249s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001352s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001514s ]
+
+[ 2018-05-28T19:14:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001497s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0010s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 1 )  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000263s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025355s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001253s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001357s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001487s ]
+
+[ 2018-05-28T19:14:01+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001484s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0008s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 1 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015297s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015414s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001496s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001602s ]
+
+[ 2018-05-28T19:14:01+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002303s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0016s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 1 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016422s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001469s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001572s ]
+
+[ 2018-05-28T19:14:02+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001512s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0009s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 1 )  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015847s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015961s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001345s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001449s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001522s ]
+
+[ 2018-05-28T19:14:03+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001790s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0009s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016546s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016680s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001188s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001576s ]
+
+[ 2018-05-28T19:14:12+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001504s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0059s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 1 )  [ RunTime:0.0078s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000250s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016599s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016718s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001328s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001541s ]
+
+[ 2018-05-28T19:14:14+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001950s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0014s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016700s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016843s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001513s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001677s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001705s ]
+
+[ 2018-05-28T19:14:16+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001528s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0008s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000221s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016063s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001321s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001431s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001498s ]
+
+[ 2018-05-28T19:17:06+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001509s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0008s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000262s ]
+NOTIC: [2] Illegal string offset 'id' D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 47 行.
+NOTIC: [2] Illegal string offset 'truename' D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 48 行.
+NOTIC: [2] Illegal string offset 'title' D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 49 行.
+NOTIC: [2] Illegal string offset 'filename' D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 50 行.
+NOTIC: [2] Illegal string offset 'hasfile' D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 50 行.
+NOTIC: [2] Illegal string offset 'id' D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 50 行.
+NOTIC: [2] Illegal string offset 'content' D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 51 行.
+NOTIC: [2] Illegal string offset 'addtime' D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 52 行.
+NOTIC: [2] Illegal string offset 'isread' D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 53 行.
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047771s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001699s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001898s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001857s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002007s ]
+
+[ 2018-05-28T19:17:37+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001622s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0007s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020371s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001336s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001508s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001626s ]
+
+[ 2018-05-28T19:18:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001496s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0014s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 1 )  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000245s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018980s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019099s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001317s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001422s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001557s ]
+
+[ 2018-05-28T19:18:58+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001610s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`truename` FROM `oa_user` WHERE ( id != 1 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051651s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051780s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001312s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001416s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002938s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003125s ]
+
+[ 2018-05-28T19:18:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001657s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0007s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 1 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015774s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015889s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001270s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001373s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001679s ]
+
+[ 2018-05-28T19:19:03+08:00 ] 127.0.0.1 /index.php/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001715s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026366s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026495s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001219s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001550s ]
+
+[ 2018-05-28T19:19:04+08:00 ] 127.0.0.1 /index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000881s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001494s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000150s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000265s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001582s ]
+
+[ 2018-05-28T19:19:04+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000942s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001515s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001663s ]
+
+[ 2018-05-28T19:24:18+08:00 ] 127.0.0.1 /index.php/Admin/Public/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001818s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `oa_user` WHERE `username` = 'root' AND `password` = '123456' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\wamp64\www\0516\Application\Admin\Controller\PublicController.class.php 第 43 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\wamp64\www\0516\Application\Admin\Controller\PublicController.class.php 第 46 行.
+NOTIC: [2] Illegal string offset 'role_id' D:\wamp64\www\0516\Application\Admin\Controller\PublicController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012486s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012607s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001851s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001959s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001549s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001697s ]
+
+[ 2018-05-28T19:24:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000957s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001589s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000400s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031412s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031607s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001249s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001389s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001630s ]
+
+[ 2018-05-28T19:24:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001639s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000184s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000306s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071236s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073715s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001682s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001811s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003951s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004107s ]
+
+[ 2018-05-28T19:24:22+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001642s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`truename` FROM `oa_user` WHERE ( id != 1 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014435s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001558s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001667s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001655s ]
+
+[ 2018-05-28T19:24:23+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001688s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0007s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 1 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021786s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021907s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001293s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001405s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001518s ]
+
+[ 2018-05-28T19:24:25+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001849s ]
+NOTIC: [8] Use of undefined constant IS_PSOT - assumed 'IS_PSOT' D:\wamp64\www\0516\Application\Admin\Controller\EmailController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `oa_email` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\wamp64\www\0516\Application\Admin\Controller\EmailController.class.php 第 58 行.
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042151s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042334s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001261s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001491s ]
+
+[ 2018-05-28T19:24:27+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000956s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002384s ]
+NOTIC: [8] Use of undefined constant IS_PSOT - assumed 'IS_PSOT' D:\wamp64\www\0516\Application\Admin\Controller\EmailController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `oa_email` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\wamp64\www\0516\Application\Admin\Controller\EmailController.class.php 第 58 行.
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000224s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016607s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016738s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001348s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001758s ]
+
+[ 2018-05-28T19:24:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001694s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000253s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016658s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016802s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001465s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001995s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002130s ]
+
+[ 2018-05-28T19:24:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001547s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000263s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036558s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036693s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001381s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001811s ]
+
+[ 2018-05-28T19:24:34+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001877s ]
+NOTIC: [8] Use of undefined constant IS_PSOT - assumed 'IS_PSOT' D:\wamp64\www\0516\Application\Admin\Controller\EmailController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `oa_email` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\wamp64\www\0516\Application\Admin\Controller\EmailController.class.php 第 58 行.
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015671s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015843s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001967s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002072s ]
+
+[ 2018-05-28T19:31:46+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001682s ]
+NOTIC: [8] Use of undefined constant IS_PSOT - assumed 'IS_PSOT' D:\wamp64\www\0516\Application\Admin\Controller\EmailController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `oa_email` WHERE `id` = 0  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013177s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001434s ]
+
+[ 2018-05-28T19:31:48+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002078s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`truename` FROM `oa_user` WHERE ( id != 1 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020818s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020953s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001307s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001405s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001811s ]
+
+[ 2018-05-28T19:31:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001448s ]
+NOTIC: [8] Use of undefined constant IS_PSOT - assumed 'IS_PSOT' D:\wamp64\www\0516\Application\Admin\Controller\EmailController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `oa_email` WHERE `id` = 0  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013948s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014075s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001312s ]
+
+[ 2018-05-28T19:31:51+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001566s ]
+NOTIC: [8] Use of undefined constant IS_PSOT - assumed 'IS_PSOT' D:\wamp64\www\0516\Application\Admin\Controller\EmailController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `oa_email` WHERE `id` = 0  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013901s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014040s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002065s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002196s ]
+
+[ 2018-05-28T19:31:54+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002463s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0034s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 1 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024971s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025082s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001455s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001488s ]
+
+[ 2018-05-28T19:31:55+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001844s ]
+NOTIC: [8] Use of undefined constant IS_PSOT - assumed 'IS_PSOT' D:\wamp64\www\0516\Application\Admin\Controller\EmailController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `oa_email` WHERE `id` = 0  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013723s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002219s ]
+
+[ 2018-05-28T19:32:04+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001792s ]
+NOTIC: [8] Use of undefined constant IS_PSOT - assumed 'IS_PSOT' D:\wamp64\www\0516\Application\Admin\Controller\EmailController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `oa_email` WHERE `id` = 0  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017420s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017685s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001899s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002126s ]
+
+[ 2018-05-28T19:32:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001576s ]
+NOTIC: [8] Use of undefined constant IS_PSOT - assumed 'IS_PSOT' D:\wamp64\www\0516\Application\Admin\Controller\EmailController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `oa_email` WHERE `id` = 0  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015763s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015927s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001380s ]
+
+[ 2018-05-28T19:33:02+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002059s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0007s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 1 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000289s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016645s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016779s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001695s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001792s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001947s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002049s ]
+
+[ 2018-05-28T19:33:03+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000907s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001872s ]
+NOTIC: [8] Use of undefined constant IS_PSOT - assumed 'IS_PSOT' D:\wamp64\www\0516\Application\Admin\Controller\EmailController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `oa_email` WHERE `id` = 0  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0004s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016047s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016174s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001623s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001761s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001902s ]
+
+[ 2018-05-28T19:33:05+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001006s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001817s ]
+NOTIC: [8] Use of undefined constant IS_PSOT - assumed 'IS_PSOT' D:\wamp64\www\0516\Application\Admin\Controller\EmailController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `oa_email` WHERE `id` = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0006s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019129s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019238s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001996s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002095s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001840s ]
+
+[ 2018-05-28T19:59:42+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002451s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0009s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.from_id = t2.id  WHERE ( t1.to_id = 1 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000237s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 106 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020540s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020646s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001565s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001680s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002952s ]
+
+[ 2018-05-28T19:59:45+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002069s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0007s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.to_id = t2.id  WHERE ( t1.from_id = 1 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 63 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\719c74596ce0087acb85dd85d63e3e38.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042310s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042431s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002200s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002328s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003802s ]
+
+[ 2018-05-28T19:59:46+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001817s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`truename` FROM `oa_user` WHERE ( id != 1 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036018s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036139s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001699s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001799s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001866s ]
+
+[ 2018-05-28T19:59:47+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000957s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001937s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0007s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.from_id = t2.id  WHERE ( t1.to_id = 1 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 106 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022752s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022896s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001592s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001689s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002228s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002343s ]
+
+[ 2018-05-28T19:59:52+08:00 ] 127.0.0.1 /index.php/Admin/Email/getContent/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002631s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029495s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029633s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001682s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001957s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002079s ]
+
+[ 2018-05-28T19:59:54+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001878s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0007s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.from_id = t2.id  WHERE ( t1.to_id = 1 )  [ RunTime:0.0024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 106 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022026s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002248s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002501s ]
+
+[ 2018-05-28T20:00:01+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002114s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0007s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.from_id = t2.id  WHERE ( t1.to_id = 1 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000334s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 106 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018835s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001731s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002050s ]
+
+[ 2018-05-28T20:01:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000929s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001965s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000185s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000533s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028108s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028237s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001575s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001681s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002957s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003146s ]
+
+[ 2018-05-28T20:01:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001748s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000252s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000379s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043094s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001571s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001676s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002385s ]
+
+[ 2018-05-28T20:01:07+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001748s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0008s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.from_id = t2.id  WHERE ( t1.to_id = 1 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 106 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019187s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001577s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001684s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002107s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002213s ]
+
+[ 2018-05-28T20:01:08+08:00 ] 127.0.0.1 /index.php/Admin/Email/getContent/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001777s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `oa_email` WHERE ( id = 1 and to_id = 1 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `oa_email` SET `isread`='1' WHERE `id` = 1 [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009188s ]
+
+[ 2018-05-28T20:01:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001782s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0007s ]
+SQL: SELECT t1.*,t2.truename as truename FROM oa_email t1 left join oa_user as t2 on t1.from_id = t2.id  WHERE ( t1.to_id = 1 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000361s ]
+NOTIC: [8] Undefined variable: page D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 106 行.
+NOTIC: [8] Undefined variable: count D:\wamp64\www\0516\Application\Runtime\Cache\Admin\3803ac9d8bf0651af241011922df6a2c.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019807s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019931s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001598s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001788s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002704s ]
+
+[ 2018-05-28T20:01:12+08:00 ] 127.0.0.1 /index.php/Admin/Email/getContent/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001920s ]
+SQL: SHOW COLUMNS FROM `oa_email` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `oa_email` WHERE ( id = 1 and to_id = 1 ) LIMIT 1   [ RunTime:0.0035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002180s ]
+

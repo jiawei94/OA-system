@@ -1,0 +1,584 @@
+[ 2018-05-17T19:41:37+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+ERR: 无法加载模块:Favicon
+
+[ 2018-05-17T20:13:34+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:34+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:34+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/info-mgt.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:34+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001404s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:34+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/WdatePicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001234s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:34+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:34+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000181s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001828s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:34+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:34+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:34+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:35+08:00 ] 127.0.0.1 /Public/css/info-reg.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-17T20:13:35+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:35+08:00 ] 127.0.0.1 /Public/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-17T20:13:36+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000162s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002618s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:36+08:00 ] 127.0.0.1 /Public/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001222s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-17T20:13:36+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002997s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:36+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:43+08:00 ] 127.0.0.1 /Public/css/info-reg.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-17T20:13:43+08:00 ] 127.0.0.1 /Public/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-17T20:13:43+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:43+08:00 ] 127.0.0.1 /Public/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-17T20:13:43+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001206s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:43+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001564s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:13:43+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:14:18+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:14:18+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/info-mgt.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:14:18+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:14:18+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001384s ]
+ERR: 无法加载模块:新建文件夹
+
+夹
+
+[ 2018-05-17T20:14:18+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:14:18+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001243s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:14:18+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:14:19+08:00 ] 127.0.0.1 /Public/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-17T20:14:19+08:00 ] 127.0.0.1 /Public/css/info-reg.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-17T20:14:19+08:00 ] 127.0.0.1 /Public/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-17T20:14:19+08:00 ] 127.0.0.1 /Public/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-17T20:14:19+08:00 ] 127.0.0.1 /Public/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-17T20:14:19+08:00 ] 127.0.0.1 /Public/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-17T20:29:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/WdatePicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001764s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001404s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/info-mgt.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001045s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:17+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:17+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:17+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/WdatePicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:17+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/info-mgt.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:17+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:17+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004353s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:17+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:17+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001184s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:17+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:29:17+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:31:40+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:31:41+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:31:41+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/WdatePicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:31:41+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002618s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:31:41+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/info-mgt.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:31:41+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:31:41+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:31:41+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001128s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:31:41+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:31:41+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:48:44+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001558s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:48:44+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/info-mgt.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002170s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:48:44+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:48:44+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:48:44+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/WdatePicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015107s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:48:44+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002971s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:48:44+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:48:44+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:48:44+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001194s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:51:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:51:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/WdatePicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:51:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:51:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/info-mgt.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:51:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001457s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:51:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001151s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:51:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:51:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001794s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:51:15+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001327s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:52:12+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/info-mgt.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:52:12+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/WdatePicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001779s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:52:12+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:52:12+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:52:12+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:52:12+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:52:12+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001114s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:52:13+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T20:52:13+08:00 ] 127.0.0.1 /%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%5B%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%5DThinkPHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B62016%E7%89%88%E8%A7%86%E9%A2%91(1)/8%E5%A4%A9thinkPHP%E6%A8%A1%E6%9D%BF+%E6%BA%90%E7%A0%81/oa%E6%A8%A1%E6%9D%BF/js/jquery.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+ERR: 无法加载模块:新建文件夹
+
+[ 2018-05-17T22:16:41+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+ERR: 无法加载模块:Favicon
+
+[ 2018-05-17T22:16:41+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000937s ]
+ERR: 无法加载模块:Favicon
+
+[ 2018-05-17T22:16:43+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+ERR: 无法加载模块:Favicon
+
